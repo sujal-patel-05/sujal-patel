@@ -58,6 +58,16 @@ Git · GitHub · Hugging Face Spaces
 
 ## 🚀 Featured Project
 
+### 🚦 Smart Traffic Signal System (AI + Computer Vision)
+> An intelligent traffic control system prioritizing lanes based on vehicle density and emergency detection.
+
+**Key Features**
+- Vehicle density estimation  
+- Ambulance priority handling  
+- AI-based traffic optimization  
+
+**Tech:** Python · OpenCV · Computer Vision · AI
+
 ### 🏏 AI Cricket Analyst
 > AI-powered IPL analytics dashboard delivering **data-backed cricket insights with broadcast-style AI commentary**.
 
@@ -71,6 +81,28 @@ Git · GitHub · Hugging Face Spaces
 https://huggingface.co/spaces/sujal05/ai-cricket-analyst  
 
 **Tech:** Python · Pandas · Plotly · Gradio · Groq LLM
+
+### 📊 IPL Match Outcome Prediction (ML Project)
+> A machine learning model to predict IPL match outcomes based on historical match data.
+
+**Key Features**
+- Feature engineering on match data  
+- Classification models for prediction  
+- Insights visualization using Tableau  
+
+**Tech:** Python · Machine Learning 
+
+### 🧘 ZenFit – AI Health & Fitness Platform
+> A full-stack AI-enabled fitness web application designed to improve user health outcomes.
+
+**Key Features**
+- AI-generated diet & workout plans  
+- BMI calculation & fitness tracking  
+- Membership enrollment & appointments  
+- Admin, Trainer & User roles  
+
+**Tech:** PHP · MongoDB · JavaScript · AI APIs
+
 
 ---
 
